@@ -77,6 +77,7 @@ Maintained by [BenchGecko](https://benchgecko.ai) | [Full Model Rankings](https:
 - **OSWorld** - Benchmark for multimodal agents on real computer environments with full OS interaction (Ubuntu). [Paper](https://arxiv.org/abs/2404.07972) | [Website](https://os-world.github.io/)
 - **MLE-bench** - Machine learning engineering benchmark from Kaggle competitions. Tests end-to-end ML pipeline skills. [Paper](https://arxiv.org/abs/2410.07095)
 - **BenchGecko Agent Rankings** - Composite agent benchmark scores across tool use, coding, and reasoning tasks. [Leaderboard](https://benchgecko.ai/agents)
+- [PromptBill](https://promptbill.online) - Calculate 30-day LLM API spend with caching and batch discounts, compare per-1M-token rates, count prompt tokens, and simulate hybrid model routing.
 - **RE-Bench** (Research Engineering Benchmark) - Tests ML research engineering abilities including training pipeline optimization and model improvement. Google uses it for Frontier Safety Framework evaluation. [Paper](https://arxiv.org/abs/2411.15114)
 
 > See the latest agent performance data and cost analysis at [benchgecko.ai/agents](https://benchgecko.ai/agents)
@@ -147,7 +148,7 @@ Maintained by [BenchGecko](https://benchgecko.ai) | [Full Model Rankings](https:
 | **SEAL Leaderboards** | Scale AI expert evaluations | [scale.com/leaderboard](https://scale.com/leaderboard) |
 | **Vellum LLM Leaderboard** | Side-by-side model comparisons | [vellum.ai/llm-leaderboard](https://www.vellum.ai/llm-leaderboard) |
 | **EvalPlus** | Code generation (HumanEval+ / MBPP+) | [evalplus.github.io](https://evalplus.github.io/leaderboard.html) |
-
+- [PromptBill](https://promptbill.online) - LLM API token pricing table, 30-day cost calculator (with prompt caching and batch discounts), benchmark leaderboard, and model comparison hub.
 ## Model Comparison Table
 
 Approximate scores on key benchmarks for frontier models. Scores reflect publicly reported results and may vary by evaluation methodology.
